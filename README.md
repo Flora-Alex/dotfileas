@@ -1,4 +1,4 @@
-# Clover's Dotfiles
+# Flora's Dotfiles
 
 - [.zshrc](.zshrc) - zshrc configration
 - [.vimrc](.vimrc) - vim configration
